@@ -62,16 +62,34 @@ header img {
 .container-2 ol li{
 	border: 3px solid black;
 	padding: 2px;
+	width: 70%;
 	color: white;
 	background-color: black;
 	margin: 10px;
 	font-weight: bold;
 	border-radius: 20%;
+	box-shadow: 0 4px 20px white;
+	text-align: center;
+}
+
+.container-2 ul li{
+	border: 3px solid black;
+	padding: 2px;
+	width: 70%;
+	color: white;
+	background-color: black;
+	margin: 10px;
+	font-weight: bold;
+	border-radius: 20%;
+	box-shadow: 0 4px 20px #6007FF;
+	text-align: center;
 }
 
 .container-2 img{
 	width: 100%;
-	
+	border: 3px solid black;
+	padding: 3px;
+	background-color: black;
 }
 
 .container-2 #caption3 {
